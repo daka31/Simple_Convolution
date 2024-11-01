@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/ControlUnit.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ControlUnit
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/Convolution.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Convolution
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/Datapath.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Datapath
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/Memory.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Memory
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/CNN_Proj/CNN_Proj.srcs/sim_1/new/cnn_interface.sv" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/CNN_Proj/CNN_Proj.srcs/sim_1/new/cnn_top_tb.sv" into library xil_defaultlib
+WARNING: [VRFC 10-3609] overwriting previous definition of interface 'cnn_interface' [C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/CNN_Proj/CNN_Proj.srcs/sim_1/new/cnn_interface.sv:1]
+INFO: [VRFC 10-311] analyzing module cnn_top_tb

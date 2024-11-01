@@ -1,0 +1,41 @@
+Vivado Simulator v2023.2
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2023.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L uvm -L unisims_ver -L unimacro_ver -L secureip --snapshot cnn_top_tb_behav xil_defaultlib.cnn_top_tb xil_defaultlib.glbl -log elaborate.log -L UVM 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "/proj/xbuilds/SWIP/9999.0_0820_0302/installs/lin64/Vivado/2024.1/data/system_verilog/uvm_1.2/xlnx_uvm_package.sv" Line 4356. Module uvm_pkg doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/proj/xbuilds/SWIP/9999.0_0820_0302/installs/lin64/Vivado/2024.1/data/system_verilog/uvm_1.2/xlnx_uvm_package.sv" Line 4356. Module uvm_pkg doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4468] File : /proj/xbuilds/SWIP/9999.0_0820_0302/installs/lin64/Vivado/2024.1/data/system_verilog/uvm_1.2/xlnx_uvm_package.sv, Line : 25994, RANDC variable size more than 8 bits. This will be treated as a RAND variable instead.
+WARNING: [XSIM 43-4099] "C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/CNN_Proj/CNN_Proj.srcs/sim_1/new/cnn_interface.sv" Line 1. Module cnn_interface doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/Convolution.sv" Line 1. Module Convolution doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/Datapath.sv" Line 1. Module Datapath doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/Memory.sv" Line 1. Module Memory(WIDTH=8,SIZE=1024,LOGSIZE=10) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/Memory.sv" Line 1. Module Memory(WIDTH=8) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/Memory.sv" Line 1. Module Memory(SIZE=1024,LOGSIZE=10) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/ControlUnit.sv" Line 1. Module ControlUnit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/CNN_Proj/CNN_Proj.srcs/sim_1/new/cnn_interface.sv" Line 1. Module cnn_interface doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/Convolution.sv" Line 1. Module Convolution doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/Datapath.sv" Line 1. Module Datapath doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/Memory.sv" Line 1. Module Memory(WIDTH=8,SIZE=1024,LOGSIZE=10) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/Memory.sv" Line 1. Module Memory(WIDTH=8) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/Memory.sv" Line 1. Module Memory(SIZE=1024,LOGSIZE=10) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/ControlUnit.sv" Line 1. Module ControlUnit doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package xil_defaultlib.$unit_ControlUnit_sv_2959449056
+Compiling package uvm.uvm_pkg
+Compiling package std.std
+Compiling module xil_defaultlib.cnn_interface
+Compiling module xil_defaultlib.Memory(WIDTH=8,SIZE=1024,LOGSIZE...
+Compiling module xil_defaultlib.Memory(WIDTH=8)
+Compiling module xil_defaultlib.Memory(SIZE=1024,LOGSIZE=10)
+Compiling module xil_defaultlib.Datapath
+Compiling module xil_defaultlib.ControlUnit
+Compiling module xil_defaultlib.Convolution
+Compiling module xil_defaultlib.cnn_top_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot cnn_top_tb_behav

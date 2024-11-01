@@ -1,0 +1,22 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/CNN_Proj/CNN_Proj.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,UVM;uvm,,,,,,
+C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/CNN_Proj/CNN_Proj.srcs/sim_1/new/cnn_agent.sv,1729283611,verilog,,,,,,,,,,,,
+C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/CNN_Proj/CNN_Proj.srcs/sim_1/new/cnn_driver.sv,1729885129,verilog,,,,,,,,,,,,
+C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/CNN_Proj/CNN_Proj.srcs/sim_1/new/cnn_env.sv,1729283769,verilog,,,,,,,,,,,,
+C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/CNN_Proj/CNN_Proj.srcs/sim_1/new/cnn_interface.sv,1730229721,systemVerilog,,C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/CNN_Proj/CNN_Proj.srcs/sim_1/new/cnn_top_tb.sv,,cnn_interface,,UVM;uvm,,,,,,
+C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/CNN_Proj/CNN_Proj.srcs/sim_1/new/cnn_monitor.sv,1730235274,verilog,,,,,,,,,,,,
+C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/CNN_Proj/CNN_Proj.srcs/sim_1/new/cnn_scoreboard.sv,1730269979,verilog,,,,,,,,,,,,
+C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/CNN_Proj/CNN_Proj.srcs/sim_1/new/cnn_sequence.sv,1730275399,verilog,,,,,,,,,,,,
+C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/CNN_Proj/CNN_Proj.srcs/sim_1/new/cnn_sequence_item.sv,1730229809,verilog,,,,,,,,,,,,
+C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/CNN_Proj/CNN_Proj.srcs/sim_1/new/cnn_sequencer.sv,1729285354,verilog,,,,,,,,,,,,
+C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/CNN_Proj/CNN_Proj.srcs/sim_1/new/cnn_test.sv,1730270626,verilog,,,,,,,,,,,,
+C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/CNN_Proj/CNN_Proj.srcs/sim_1/new/cnn_top_tb.sv,1729899779,systemVerilog,,,C:/Xilinx/Vivado/2023.2/data/xsim/system_verilog/uvm_include/uvm_macros.svh;C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/CNN_Proj/CNN_Proj.srcs/sim_1/new/cnn_interface.sv;C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/CNN_Proj/CNN_Proj.srcs/sim_1/new/cnn_sequence_item.sv;C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/CNN_Proj/CNN_Proj.srcs/sim_1/new/cnn_sequence.sv;C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/CNN_Proj/CNN_Proj.srcs/sim_1/new/cnn_sequencer.sv;C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/CNN_Proj/CNN_Proj.srcs/sim_1/new/cnn_driver.sv;C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/CNN_Proj/CNN_Proj.srcs/sim_1/new/cnn_monitor.sv;C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/CNN_Proj/CNN_Proj.srcs/sim_1/new/cnn_agent.sv;C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/CNN_Proj/CNN_Proj.srcs/sim_1/new/cnn_scoreboard.sv;C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/CNN_Proj/CNN_Proj.srcs/sim_1/new/cnn_env.sv;C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/CNN_Proj/CNN_Proj.srcs/sim_1/new/cnn_test.sv,cnn_top_tb,,UVM;uvm,,,,,,
+C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/ControlUnit.sv,1730237101,systemVerilog,C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/CNN_Proj/CNN_Proj.srcs/sim_1/new/cnn_interface.sv;C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/CNN_Proj/CNN_Proj.srcs/sim_1/new/cnn_top_tb.sv;C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/Convolution.sv;C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/Datapath.sv;C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/Memory.sv,C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/Convolution.sv,,$unit_ControlUnit_sv_2959449056;ControlUnit,,UVM;uvm,,,,,,
+C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/Convolution.sv,1730229912,systemVerilog,,C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/Datapath.sv,,Convolution,,UVM;uvm,,,,,,
+C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/Convolution_tb.sv,1729272835,systemVerilog,,,,Convolution_tb,,UVM;uvm,,,,,,
+C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/Datapath.sv,1730270015,systemVerilog,,C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/Memory.sv,,Datapath,,UVM;uvm,,,,,,
+C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/Memory.sv,1730270024,systemVerilog,,C:/DOAN/DoAn2/CNN_Simple/CNN_Proj/CNN_Proj/CNN_Proj.srcs/sim_1/new/cnn_interface.sv,,Memory,,UVM;uvm,,,,,,
+C:/Xilinx/Vivado/2023.2/data/xsim/system_verilog/uvm_include/uvm_macros.svh,1697250888,verilog,,,,,,,,,,,,
